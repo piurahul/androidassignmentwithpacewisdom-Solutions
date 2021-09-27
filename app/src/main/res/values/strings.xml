@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyTask</string>
+    <string name="save">Add Contact</string>
+    <string name="add_new_contacts">Add your Contacts Here</string>
+    <string name="name">Name</string>
+    <string name="number">1234567890</string>
+    <string name="contact_permission_rationale">Need contacts read permission for fetching and displaying contacts</string>
+
+</resources>
