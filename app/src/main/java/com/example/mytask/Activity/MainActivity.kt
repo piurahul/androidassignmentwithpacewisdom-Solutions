@@ -32,7 +32,7 @@ class MainActivity : AppCompatActivity() {
         add_fab.setOnClickListener(){
             startActivity(Intent(applicationContext,AddContactActivity::class.java))
         }
-        
+
         val  rvContacts : RecyclerView = findViewById(R.id.rvContacts);
         val adapter = ContactsAdapter(this)
         rvContacts.adapter = adapter
